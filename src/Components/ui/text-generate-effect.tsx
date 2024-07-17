@@ -52,7 +52,7 @@ export const TextGenerateEffect = ({
   return (
     <div className={cn("font-bold  font-serif", className)}>
       <div className="mt-4">
-        <div className={`dark:text-white text-black text-4xl leading-snug tracking-wide ${robotomono.className}`}>
+        <div className={`dark:text-white text-black text-2xl leading-snug tracking-wide ${robotomono.className}`}>
           {renderWords()}
         </div>
       </div>
