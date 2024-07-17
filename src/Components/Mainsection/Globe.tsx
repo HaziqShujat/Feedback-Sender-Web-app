@@ -414,7 +414,7 @@ export function GlobeDemo() {
           <h2 className="text-center font-serif text-xl md:text-4xl font-bold text-black dark:text-white">
             Random Feedback Sender
           </h2>
-          <p className="text-center text-base md:text-lg font-normal text-neutral-700 dark:text-neutral-200 max-w-md mt-2 mx-auto">
+          <p className="text-center text-base md:text-lg font-normal text-neutral-700 dark:text-neutral-50 max-w-md mt-2 mx-auto">
             The Random Feedback sender is an innovative web app designed to
             foster a culture of positive reinforcement and constructive
             feedback.
